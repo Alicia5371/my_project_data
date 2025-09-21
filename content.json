@@ -3,7 +3,7 @@
     {
       "id": "restuarnt",
       "title": "Restaurants",
-      "shortDescription": "Test Take 47",
+      "shortDescription": "Test Take 48",
       "thumbnail": "https://raw.githubusercontent.com/Alicia5371/my_project_data/main/assets/restaurants/restuarants.jpg",
       "releaseDate": "2025-09-16"
     },
@@ -96,9 +96,18 @@
       "releaseDate": "2011-03-21"
     }
   ],
-  "Shopping": [],
+  "Shopping": [
+    {
+      "id": "artist-the-weeknd",
+      "title": "The Weeknd",
+      "longDescription": "Pop and R&B artist known for atmospheric vocals and global hits.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/artists/the-weeknd.jpg",
+      "releaseDate": "2011-03-21"
+    }
+  ],
   "Entertainment": []
 }
+
 
 
 

@@ -1,7 +1,7 @@
 {
   "General": [
     {
-      "id": "cat-restaurants",
+      "id": "",
       "title": "Restaurants",
       "shortDescription": "This is a Test.",
       "thumbnail": "https://raw.github.com/Alicia5371/my_project_data/blob/main/assets/restaurants.png",
@@ -99,3 +99,4 @@
   "Shopping": [],
   "Entertainment": []
 }
+

@@ -4,7 +4,7 @@
       "id": "restuarnt",
       "title": "Restaurants",
       "shortDescription": "Trying Again",
-      "thumbnail": "https://raw.github.com/Alicia5371/my_project_data/blob/main/assets/restaurants.png",
+      "thumbnail": "https://github.com/Alicia5371/my_project_data/main/assets/restaurants/restuarants.jpg",
       "releaseDate": "2025-09-16"
     },
     {
@@ -99,6 +99,7 @@
   "Shopping": [],
   "Entertainment": []
 }
+
 
 
 

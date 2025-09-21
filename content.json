@@ -40,7 +40,7 @@
     {
       "id": "rest-dominos",
       "title": "Domino's",
-      "longDescription": "Pizza, pasta, and wings with fast delivery and carryout.",
+      "longDescription": "Dominos Picture?",
       "thumbnail": "https://githubusercontent.com/Alicia5371/my_project_data/main/assets/restaurants/dominos.png",
       "releaseDate": "1960-12-09"
     },
@@ -99,6 +99,7 @@
   "Shopping": [],
   "Entertainment": []
 }
+
 
 
 

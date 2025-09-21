@@ -33,7 +33,7 @@
     {
       "id": "rest-wendys",
       "title": "Wendy's",
-      "longDescription": "Square burgers, spicy nuggets, baked potatoes, and Frosty desserts.",
+      "longDescription": "This is a test",
       "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/wendys.png",
       "releaseDate": "1969-11-15"
     },

@@ -34,7 +34,7 @@
       "id": "rest-wendys",
       "title": "Wendy's",
       "longDescription": "Wendys Picture?",
-      "thumbnail": "https://raw.github.com/Alicia5371/my_project_data/blob/main/assets/restuarnts/wendys.png",
+      "thumbnail": "https://raw.githubusercontent.com/Alicia5371/my_project_data/main/assets/restaurants/wendys.png",
       "releaseDate": "1969-11-15"
     },
     {
@@ -99,6 +99,7 @@
   "Shopping": [],
   "Entertainment": []
 }
+
 
 
 

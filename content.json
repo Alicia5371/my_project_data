@@ -3,7 +3,7 @@
     {
       "id": "restuarnt",
       "title": "Restaurants",
-      "shortDescription": "Test Take 48",
+      "shortDescription": "Test Take 49",
       "thumbnail": "https://raw.githubusercontent.com/Alicia5371/my_project_data/main/assets/restaurants/restuarants.jpg",
       "releaseDate": "2025-09-16"
     },
@@ -45,10 +45,11 @@
       "releaseDate": "1960-12-09"
     },
     {
-      "id": "rest-mcdonalds",
-      "title": "McDonald's",
-      "longDescription": "World famous fries, Big Mac, McNuggets, and breakfast classics.",
-      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/mcdonalds.png",
+      "id": "north-italia",
+      "title": "North Italia",
+      "longDescription": "North Italia — Charlotte, NC : 🍝 Modern Italian fare with handmade pastas, artisan pizzas, and seasonal plates : ⭐ Ratings: 4.3/5 average (food & vibe praised, service sometimes slow) : 💲 Price: ~$20-$35",
+      
+      "thumbnail": "https://raw.githubusercontent.com/Alicia5371/my_project_data/main/assets/restaurants/North_Restaurant.png",
       "releaseDate": "1955-04-15"
     },
     {
@@ -107,6 +108,7 @@
   ],
   "Entertainment": []
 }
+
 
 
 
